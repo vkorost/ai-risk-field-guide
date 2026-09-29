@@ -14,6 +14,8 @@ It threw out arguments from both sides, and the ones it threw out from the side 
 
 Then it did the thing that makes the apparatus worth paying for. It revised itself twice on the page, against numbers it had set in earlier chapters, and in Chapter 16 it audited its own ledger and corrected seven entries.
 
+[**Video overview of the project**](https://www.youtube.com/watch?v=cdkJnh9obdY)
+
 ## What it concluded
 
 The headline figure, after that audit:
