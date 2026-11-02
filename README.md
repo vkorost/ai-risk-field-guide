@@ -1,3 +1,5 @@
+[![Why Would It Keep Making Paperclips? — A Field Guide to the AI Risk Debate](./book/ai-risk-field-guide-social-800x400.jpg)](https://github.com/vkorost/ai-risk-field-guide/releases/latest)
+
 # Why Would It Keep Making Paperclips?
 
 ### A Field Guide to the AI Risk Debate
